@@ -1504,7 +1504,7 @@ b) 批量更新
 
 ![](/assets/image244danka.jpg)
 
-6.2 动作规则清单
+## 6.2 动作规则清单
 
 列表页（voucherlist、treelist）
 
